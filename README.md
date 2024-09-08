@@ -1,3 +1,7 @@
+# Repositorio del código
+
+https://github.com/TomGGB/shapeandplate
+
 # Proyecto de Capstone
 
 Este proyecto de Capstone es una iniciativa para desarrollar una aplicación web innovadora que aborde un problema específico en un campo determinado. El objetivo principal de este proyecto es aplicar los conocimientos y habilidades adquiridos durante el programa de estudios y demostrar la capacidad de desarrollar una solución completa.
