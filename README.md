@@ -8,11 +8,10 @@ El proyecto se centra en la creación de una aplicación web que facilite la cre
 
 ## Características principales
 
-- Creación y asignación de tareas
-- Seguimiento del progreso de las tareas
-- Colaboración en tiempo real
-- Notificaciones y recordatorios
-- Generación de informes y análisis de datos
+- Registro e inicio de sesión de los usuarios
+- Creación y almacenamiento de rutinas de ejercicios personalizadas
+- Creación y almacenamiento de recetas de cocina personalizadas
+- Recordatorios por correo electronico
 
 ## Tecnologías utilizadas
 
